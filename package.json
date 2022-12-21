@@ -1,0 +1,13 @@
+{
+  "name": "pagination-gen",
+  "version": "1.0.0",
+  "description": "pagination generator",
+  "main": "index.js",
+  "keywords": ["pagination", "nodejs", "server"],
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/sjy-dv/pagi-gen",
+  "author": "seojaeyoung",
+  "license": "ISC"
+}
